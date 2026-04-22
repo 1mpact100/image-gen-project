@@ -1,0 +1,2 @@
+Pillow
+huggingface_hub
